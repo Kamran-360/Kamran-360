@@ -1,7 +1,7 @@
 # Kamran Rasheed
 
 ## Introduction
-Welcome to my GitHub profile! I am Kamran Rasheed, and I'm passionate about software development, with expertise in Node.js, JavaScript, SJ (assuming a typo, assuming you meant JS), C++, and Python. This repository is a collection of my projects and contributions.
+Welcome to my GitHub profile! I am Kamran Rasheed, and I'm passionate about software development, with expertise in Node.js, JavaScript, C++, and Python.My repos are collection of my projects and contributions.
 
 ## Skills
 - Node.js, JavaScript (All major libraries & frameworks)
